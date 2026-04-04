@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+@theme {
+	--color-primary-50: hsl(260, 100%, 95%);
+	--color-primary-300: hsl(264, 82%, 80%);
+	--color-primary-500: hsl(263, 55%, 52%);
+
+	--color-neutral-white: hsl(0, 0%, 100%);
+	--color-neutral-100: hsl(214, 17%, 92%);
+	--color-neutral-200: hsl(0, 0%, 81%);
+	--color-neutral-400: hsl(224, 10%, 45%);
+	--color-neutral-500: hsl(217, 19%, 35%);
+	--color-neutral-800: hsl(219, 29%, 14%);
+	--color-neutral-black: hsl(0, 0%, 7%);
+
+	--breakpoint-sm: 40rem;
+	--breakpoint-lg: 60rem;
+	--breakpoint-2xl: 80rem;
+}
+
+body {
+	font-family: "Outfit", sans-serif;
+	font-weight: 500;
+	font-size: 13px;
+}
+
+.font-600 {
+	font-weight: 600;
+}
+
+.attribution {
+	font-size: 11px;
+	text-align: center;
+}
+
+.attribution a {
+	color: hsl(228, 45%, 44%);
+}
