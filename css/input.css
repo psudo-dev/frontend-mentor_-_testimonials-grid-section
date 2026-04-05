@@ -34,5 +34,6 @@ body {
 }
 
 .attribution a {
-	color: hsl(228, 45%, 44%);
+	text-decoration: underline;
+	color: hsl(227, 12%, 31%);
 }

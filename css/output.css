@@ -1,4 +1,4 @@
-/*! tailwindcss v4.1.13 | MIT License | https://tailwindcss.com */
+/*! tailwindcss v4.2.2 | MIT License | https://tailwindcss.com */
 @layer properties;
 @layer theme, base, components, utilities;
 @layer theme {
@@ -179,50 +179,11 @@
   }
 }
 @layer utilities {
-  .absolute {
-    position: absolute;
-  }
   .relative {
     position: relative;
   }
-  .static {
-    position: static;
-  }
-  .top-0 {
-    top: calc(var(--spacing) * 0);
-  }
-  .top-0\.5 {
-    top: calc(var(--spacing) * 0.5);
-  }
-  .top-1 {
-    top: calc(var(--spacing) * 1);
-  }
-  .top-3 {
-    top: calc(var(--spacing) * 3);
-  }
-  .right-5 {
-    right: calc(var(--spacing) * 5);
-  }
-  .right-6 {
-    right: calc(var(--spacing) * 6);
-  }
-  .right-7 {
-    right: calc(var(--spacing) * 7);
-  }
-  .right-10 {
-    right: calc(var(--spacing) * 10);
-  }
-  .right-15 {
-    right: calc(var(--spacing) * 15);
-  }
-  .-z-1 {
-    z-index: calc(1 * -1);
-  }
   .z-0 {
     z-index: 0;
-  }
-  .z-1 {
-    z-index: 1;
   }
   .col-span-full {
     grid-column: 1 / -1;
@@ -257,12 +218,6 @@
   .max-w-\[32px\] {
     max-width: 32px;
   }
-  .border-collapse {
-    border-collapse: collapse;
-  }
-  .resize {
-    resize: both;
-  }
   .justify-center {
     justify-content: center;
   }
@@ -277,10 +232,6 @@
   }
   .rounded-lg {
     border-radius: var(--radius-lg);
-  }
-  .border {
-    border-style: var(--tw-border-style);
-    border-width: 1px;
   }
   .border-2 {
     border-style: var(--tw-border-style);
@@ -352,12 +303,6 @@
   }
   .text-primary-300 {
     color: var(--color-primary-300);
-  }
-  .underline {
-    text-decoration-line: underline;
-  }
-  .opacity-0 {
-    opacity: 0%;
   }
   .opacity-50 {
     opacity: 50%;
@@ -461,26 +406,6 @@
       grid-template-columns: repeat(3, minmax(0, 1fr));
     }
   }
-  .\32 xl\:absolute {
-    @media (width >= 80rem) {
-      position: absolute;
-    }
-  }
-  .\32 xl\:top-0 {
-    @media (width >= 80rem) {
-      top: calc(var(--spacing) * 0);
-    }
-  }
-  .\32 xl\:right-15 {
-    @media (width >= 80rem) {
-      right: calc(var(--spacing) * 15);
-    }
-  }
-  .\32 xl\:-z-1 {
-    @media (width >= 80rem) {
-      z-index: calc(1 * -1);
-    }
-  }
   .\32 xl\:col-span-1 {
     @media (width >= 80rem) {
       grid-column: span 1 / span 1;
@@ -511,11 +436,6 @@
       grid-template-columns: repeat(4, minmax(0, 1fr));
     }
   }
-  .\32 xl\:opacity-50 {
-    @media (width >= 80rem) {
-      opacity: 50%;
-    }
-  }
 }
 body {
   font-family: "Outfit", sans-serif;
@@ -530,7 +450,8 @@ body {
   text-align: center;
 }
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  text-decoration: underline;
+  color: hsl(227, 12%, 31%);
 }
 @property --tw-border-style {
   syntax: "*";
