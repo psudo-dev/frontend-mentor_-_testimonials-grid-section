@@ -218,6 +218,12 @@
   .max-w-\[32px\] {
     max-width: 32px;
   }
+  .border-collapse {
+    border-collapse: collapse;
+  }
+  .resize {
+    resize: both;
+  }
   .justify-center {
     justify-content: center;
   }
@@ -232,6 +238,10 @@
   }
   .rounded-lg {
     border-radius: var(--radius-lg);
+  }
+  .border {
+    border-style: var(--tw-border-style);
+    border-width: 1px;
   }
   .border-2 {
     border-style: var(--tw-border-style);
@@ -303,6 +313,9 @@
   }
   .text-primary-300 {
     color: var(--color-primary-300);
+  }
+  .underline {
+    text-decoration-line: underline;
   }
   .opacity-50 {
     opacity: 50%;
