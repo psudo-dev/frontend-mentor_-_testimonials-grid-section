@@ -23,7 +23,7 @@ I'm back to studying programming and I've started with the good old HTML and CSS
 
 ### Live Demo
 
-- [Live Demo](https://glitch-taco-bubble.netlify.app/)
+- [Live Demo](https://fuzz-lemon-drift.netlify.app)
 
 ## Frontend Mentor
 
@@ -33,7 +33,7 @@ The challenges are pretty straight forward, you have to replicate the page or el
 
 ### The Challenge
 
-- [Testimonials Grid Section](https://www.frontendmentor.io/challenges/testimonials-grid-section-6KPODQg1J)
+- [Testimonials Grid Section](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
 
 Use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
