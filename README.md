@@ -1,21 +1,21 @@
-![Image](./design/desktop-preview.jpg)
+![Image](./design/desktop-design.jpg)
 
-# Frontend Mentor - Social Proof Section
+# Frontend Mentor - Testimonials Grid Section
 
-[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Social%20Proof%20Section-2ec866?style=flat-square&logo=frontendmentor)](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA)
+[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Testimonials%20Grid%20Section-2ec866?style=flat-square&logo=frontendmentor)](https://www.frontendmentor.io/challenges/testimonials-grid-section-6KPODQg1J)
 
 ## Table of Contents
 
-- [Frontend Mentor - Social Proof Section](#frontend-mentor---social-proof-section)
-	- [Table of Contents](#table-of-contents)
-	- [Overview](#overview)
-		- [Live Demo](#live-demo)
-	- [Frontend Mentor](#frontend-mentor)
-		- [The Challenge](#the-challenge)
-	- [Commentary](#commentary)
-	- [Built Using](#built-using)
-	- [Author](#author)
-	- [License](#license)
+- [Frontend Mentor - Testimonials Grid Section](#frontend-mentor---testimonials-grid-section)
+    - [Table of Contents](#table-of-contents)
+    - [Overview](#overview)
+        - [Live Demo](#live-demo)
+    - [Frontend Mentor](#frontend-mentor)
+        - [The Challenge](#the-challenge)
+    - [Commentary](#commentary)
+    - [Built Using](#built-using)
+    - [Author](#author)
+    - [License](#license)
 
 ## Overview
 
@@ -33,7 +33,7 @@ The challenges are pretty straight forward, you have to replicate the page or el
 
 ### The Challenge
 
-- [Social Proof Section](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA)
+- [Testimonials Grid Section](https://www.frontendmentor.io/challenges/testimonials-grid-section-6KPODQg1J)
 
 Use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
@@ -57,8 +57,8 @@ To think I used to hate these HTML and CSS challenges - back then when I first l
 
 - HTML
 - CSS
-	- Flexbox
-	- Grid
+    - Flexbox
+    - Grid
 - Tailwind CSS
 
 ## Author
