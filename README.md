@@ -2,7 +2,7 @@
 
 # Frontend Mentor - Testimonials Grid Section
 
-[![Frontend Mentor - Testimonials Grid Section](https://img.shields.io/badge/Junior-Testimonials%20Grid%20Section-4DD399?style=flat-square&logo=frontendmentor)](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
+[![Frontend Mentor - Testimonials Grid Section](https://img.shields.io/badge/Junior-Testimonials%20Grid%20Section-2EC866?style=flat-square&logo=frontendmentor)](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
 
 ## Overview
 
